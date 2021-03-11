@@ -1,0 +1,4 @@
+[14-Feb-2021 20:15:46 Europe/Istanbul] PHP Warning:  move_uploaded_file(../upload/wallpapertip_cp-wallpaper-hd_674911.jpg): failed to open stream: No such file or directory in /home/u0006790/public_html/ckeditor/ck_upload.php on line 75
+[14-Feb-2021 20:15:46 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNZUR6o' to '../upload/wallpapertip_cp-wallpaper-hd_674911.jpg' in /home/u0006790/public_html/ckeditor/ck_upload.php on line 75
+[14-Feb-2021 20:54:46 Europe/Istanbul] PHP Notice:  Undefined index: CKEditorFuncNum in /home/u0006790/public_html/ckeditor/ck_upload.php on line 76
+[14-Feb-2021 20:56:06 Europe/Istanbul] PHP Notice:  Undefined index: CKEditorFuncNum in /home/u0006790/public_html/ckeditor/ck_upload.php on line 76
